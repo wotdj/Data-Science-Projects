@@ -1,2 +1,2 @@
 # Data-Science-Projects
-You can find all of my data science projects in here.
+Welcome! You can find all of my data science projects in here.
